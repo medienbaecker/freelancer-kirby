@@ -1,0 +1,49 @@
+Title: Start Bootstrap
+
+----
+
+Heading: 
+
+----
+
+Subheading: Graphic Artist - Web Designer - Illustrator
+
+----
+
+Footer-col1-header: Location
+
+----
+
+Footer-col1-text:
+
+2215 John Daniel Drive
+Clark, MO 65243
+
+----
+
+Footer-col2-header: Around the Web
+
+----
+
+Footer-col2-links:
+
+- 
+  icon: fa-facebook-f
+  url: https://www.google.com
+- 
+  icon: fa-twitter
+  url: https://www.google.com
+- 
+  icon: fa-linkedin-in
+  url: https://www.google.com
+- 
+  icon: fa-dribbble
+  url: https://www.google.com
+
+----
+
+Footer-col3-header: About Freelancer
+
+----
+
+Footer-col3-text: Freelance is a free to use, MIT licensed Bootstrap theme created by (link: http://startbootstrap.com text: Start Bootstrap).

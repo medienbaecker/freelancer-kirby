@@ -1,0 +1,19 @@
+title: Text
+columns:
+  main:
+    width: 1/1
+    fields:
+      text_left:
+        label: Text Left
+        type: textarea
+        width: 1/2
+      text_right:
+        label: Text Right
+        type: textarea
+        width: 1/2
+      button_url:
+        label: Button URL
+        type: url
+      button_label:
+        label: Button Label
+        type: text

@@ -1,0 +1,6 @@
+title: Contact
+fields:
+  info:
+    label: Info
+    type: info
+    text: 'Contact form will be inserted here!'
