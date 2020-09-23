@@ -26,19 +26,19 @@ columns:
 		width: 1/3
 		fields:
 			footer_col1_header:
-				label: Column 1 Header
+				label: Footer Column 1 Header
 				type: text
 			footer_col1_text:
-				label: Column 1 Text
+				label: Footer Column 1 Text
 				type: textarea
 	footer2:
 		width: 1/3
 		fields:
 			footer_col2_header:
-				label: Column 2 Header
+				label: Footer Column 2 Header
 				type: text
 			footer_col2_links:
-				label: Column 2 Text
+				label: Footer Column 2 Links
 				type: structure
 				fields:
 					icon:
@@ -53,9 +53,9 @@ columns:
 		width: 1/3
 		fields:
 			footer_col3_header:
-				label: Column 3 Header
+				label: Footer Column 3 Header
 				type: text
 			footer_col3_text:
-				label: Column 3 Text
+				label: Footer Column 3 Text
 				type: textarea
 			
