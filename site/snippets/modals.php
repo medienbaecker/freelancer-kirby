@@ -1,5 +1,5 @@
 <!-- Portfolio Section-->
-<section class="page-section portfolio" id="portfolio">
+<section class="page-section portfolio" id="<?= $page->slug() ?>">
 	<div class="container">
 		<!-- Portfolio Section Heading-->
 		<h2 class="page-section-heading text-center text-uppercase text-secondary mb-0"><?= $page->title() ?></h2>

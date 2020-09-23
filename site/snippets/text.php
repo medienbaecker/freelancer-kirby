@@ -1,5 +1,5 @@
 <!-- About Section-->
-<section class="page-section bg-primary text-white mb-0" id="about">
+<section class="page-section bg-primary text-white mb-0" id="<?= $page->slug() ?>">
 	<div class="container">
 		<!-- About Section Heading-->
 		<h2 class="page-section-heading text-center text-uppercase text-white"><?= $page->title() ?></h2>

@@ -1,5 +1,5 @@
 <!-- Contact Section-->
-<section class="page-section" id="contact">
+<section class="page-section" id="<?= $page->slug() ?>">
 	<div class="container">
 		<!-- Contact Section Heading-->
 		<h2 class="page-section-heading text-center text-uppercase text-secondary mb-0"><?= $page->title() ?></h2>
